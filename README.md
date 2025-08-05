@@ -20,7 +20,7 @@ A simple Node.js script to generate a visually organized tree view of your proje
 1. Clone or download this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/project-folder-tree.git
+   git clone https://github.com/kamrulislambappy/generate-folder-tree.git
    cd project-folder-tree
    ```
 
